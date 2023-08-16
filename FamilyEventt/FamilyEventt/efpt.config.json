@@ -1,0 +1,140 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "FamilyEventContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "FamilyEventt",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Account]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ChatMessage]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DateTimeLocation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Decoration]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DecorationProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Entertainment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EntertainmentProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Event]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EventBooker]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[EventType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Family]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Feedback]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Food]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[FoodType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[GameServices]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Menu]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[MenuProduct]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Notification]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Participant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Payment]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Product]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RoomLocation]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Script]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ShowService]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Verify]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Voucher]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-9R59LGC\\SQLEXPRESS03.FamilyEvent",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
